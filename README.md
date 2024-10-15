@@ -1,3 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caadiq)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caadiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=caadiq" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caadiq&layout=compact" alt="Top Langs" />
+</div>
